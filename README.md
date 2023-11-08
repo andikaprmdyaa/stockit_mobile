@@ -1,5 +1,5 @@
 # stockit_mobile
-# Assignment 6
+# Assignment 7
 ## Answers
 
 ### 1.  What are the main differences between stateless and stateful widget in Flutter?
